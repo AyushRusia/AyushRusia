@@ -10,7 +10,25 @@
 -  **Hobbies :** Badminton 🏸 | Chess ♟️
 -  **Ask me about :** Nothing 😆 
 
-  
+
+### ⚡ Technologies
+<p align="center">
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/cpp.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/java-icon.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/Nextjs-logo.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">&nbsp;&nbsp;&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/graphql-icon.svg">&nbsp;&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/w3_html5-icon.svg">&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/icons8-css3.svg">&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/getbootstrap-icon.svg">&nbsp;
+  <img width="4%" src="https://github.com/AyushRusia/AyushRusia/blob/main/icons/git-scm-icon.svg">&nbsp;&nbsp;&nbsp;
+  <img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+ </p> 
+<br />
+
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushRusia&count_private=true&show_icons=true" height="170px">
